@@ -1,0 +1,5 @@
+.vscode
+server/node_modules
+server_test/node_modules
+client/node_modules
+*.mp4
